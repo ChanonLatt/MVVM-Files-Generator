@@ -16,7 +16,7 @@
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
-<string>Module Name</string>
+			<string>Prefix file name</string>
 			<key>Description</key>
 			<string>The name of the MVVM Module to create</string>
 			<key>Type</key>
